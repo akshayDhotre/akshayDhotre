@@ -16,11 +16,11 @@ I currently work on **business-critical AI platforms** that automate complex cli
 
 ## 🧠 What I Work On
 
-* 🔹 **Production ML & AI Systems** (end-to-end ownership)
-* 🔹 **Generative AI & LLM Applications** (RAG, summarization, chatbots)
-* 🔹 **Hybrid AI Architectures** (Rules + ML + GenAI)
-* 🔹 **Real-time Decision Systems**
-* 🔹 **MLOps & Cloud-native AI** (Docker, Serverless, Azure)
+### 🔹 **Production ML & AI Systems** (end-to-end ownership)
+### 🔹 **Generative AI & LLM Applications** (RAG, summarization, chatbots)
+### 🔹 **Hybrid AI Architectures** (Rules + ML + GenAI)
+### 🔹 **Real-time Decision Systems**
+### 🔹 **MLOps & Cloud-native AI** (Docker, Serverless, Azure)
 
 ---
 
