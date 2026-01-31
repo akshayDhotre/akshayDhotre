@@ -31,13 +31,12 @@ and higher ownership — and delivering under real-world constraints.
 
 I don't optimize for tools — I optimize for outcomes.
 
-- 🔹 **Tech-agnostic by design**: Languages, frameworks, and models are tools. I choose them based on problem constraints, not comfort zones.
-- 🔹 **Rapid upskilling**: I continuously learn and adapt as problem spaces evolve — from traditional ML to deep learning, GenAI, and agentic systems.
-- 🔹 **Hands-on end to end**: I design architectures, write code, debug pipelines, deploy services, and optimize performance myself.
-- 🔹 **Production-first mindset**: Reliability, latency, scalability, cost, and maintainability matter as much as model accuracy.
+- **Tech-agnostic by design**: Languages, frameworks, and models are tools. I choose them based on problem constraints, not comfort zones.
+- **Rapid upskilling**: I continuously learn and adapt as problem spaces evolve — from traditional ML to deep learning, GenAI, and agentic systems.
+- **Hands-on end to end**: I design architectures, write code, debug pipelines, deploy services, and optimize performance myself.
+- **Production-first mindset**: Reliability, latency, scalability, cost, and maintainability matter as much as model accuracy.
 
-If a problem needs a new stack, I learn it.  
-If it needs a simpler solution, I build that instead.
+If a problem needs a new stack, I learn it. If it needs a simpler solution, I build that instead.
 
 ---
 
@@ -56,11 +55,11 @@ Each project reflects a **learning curve**, not just a finished demo.
 
 ## 🧠 What I Work On
 
-#### 🔹 **Production ML & AI Systems** (end-to-end ownership)
-#### 🔹 **Generative AI & LLM Applications** (RAG, summarization, chatbots)
-#### 🔹 **Hybrid AI Architectures** (Rules + ML + GenAI)
-#### 🔹 **Real-time Decision Systems**
-#### 🔹 **MLOps & Cloud-native AI** (Docker, Serverless, Azure)
+- **Production ML & AI Systems** (end-to-end ownership)
+- **Generative AI & LLM Applications** (RAG, summarization, chatbots)
+- **Hybrid AI Architectures** (Rules + ML + GenAI)
+- **Real-time Decision Systems**
+- **MLOps & Cloud-native AI** (Docker, Serverless, Azure)
 
 ---
 
@@ -79,21 +78,21 @@ CI/CD, Async APIs, Distributed systems
 > The following projects were delivered as part of my professional work.
 > Source code and internal implementations are not publicly available.
 
-### 🔹 Auto Decision System for Prior Authorizations
+- **Auto Decision System for Prior Authorizations**
 
-High-impact, real-time hybrid AI platform combining rules engines, ML models, and GenAI to automate healthcare authorization decisions at scale, delivering significant cost savings and operational efficiency.
+  High-impact, real-time hybrid AI platform combining rules engines, ML models, and GenAI to automate healthcare authorization decisions at scale, delivering significant cost savings and operational efficiency.
 
-### 🔹 Patient Summary Generation (GenAI + RAG)
+- P**atient Summary Generation (GenAI + RAG)**
 
-LLM-based system using Retrieval-Augmented Generation to create concise, clinically relevant patient summaries from large volumes of medical data.
+  LLM-based system using Retrieval-Augmented Generation to create concise, clinically relevant patient summaries from large volumes of medical data.
 
-### 🔹 Health Policy Intelligence Tool
+- **Health Policy Intelligence Tool**
 
-GenAI-powered tool aggregating and summarizing healthcare policy content to support faster claims adjudication and treatment planning.
+  GenAI-powered tool aggregating and summarizing healthcare policy content to support faster claims adjudication and treatment planning.
 
-### 🔹 Auto Intake – Document AI Pipeline
+- **Auto Intake – Document AI Pipeline**
 
-End-to-end document ingestion pipeline using computer vision, OCR, ML, and GenAI to automate fax-based medical intake and feed downstream decision systems.
+  End-to-end document ingestion pipeline using computer vision, OCR, ML, and GenAI to automate fax-based medical intake and feed downstream decision systems.
 
 ---
 
