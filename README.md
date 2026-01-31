@@ -1,6 +1,8 @@
-# 👋 Hi, I'm Akshay Dhotre
+# 👋 Hi, I'm Akshay
 
-Senior Machine Learning Engineer | GenAI & Applied AI Specialist
+Applied AI / ML Engineer with a strong hands-on background in building, adapting, and shipping real-world machine learning and GenAI systems.
+
+I focus on solving problems end to end — from understanding ambiguous requirements to designing, building, and deploying production-ready solutions.
 
 ---
 
@@ -14,6 +16,44 @@ I currently work on **business-critical AI platforms** that automate complex cli
 
 ---
 
+## 🔁 Adaptability & Growth
+
+My career progression reflects continuous adaptation to new domains,
+changing requirements, and evolving technical expectations.
+
+With a strong engineering foundation, I’ve transitioned across roles and organizations
+by learning what each situation demanded — new technologies, new problem spaces,
+and higher ownership — and delivering under real-world constraints.
+
+---
+
+## 🧠 How I Work
+
+I don't optimize for tools — I optimize for outcomes.
+
+- 🔹 **Tech-agnostic by design**: Languages, frameworks, and models are tools. I choose them based on problem constraints, not comfort zones.
+- 🔹 **Rapid upskilling**: I continuously learn and adapt as problem spaces evolve — from traditional ML to deep learning, GenAI, and agentic systems.
+- 🔹 **Hands-on end to end**: I design architectures, write code, debug pipelines, deploy services, and optimize performance myself.
+- 🔹 **Production-first mindset**: Reliability, latency, scalability, cost, and maintainability matter as much as model accuracy.
+
+If a problem needs a new stack, I learn it.  
+If it needs a simpler solution, I build that instead.
+
+---
+
+## 🔄 Learning by Building
+
+Most repositories here started with a real problem and required me to learn something new:
+
+- OCR & document intelligence → image preprocessing, layout analysis, text extraction
+- NLP & GenAI → RAG pipelines, prompt engineering, LLM orchestration
+- ML systems → model lifecycle, versioning, monitoring, CI/CD
+- Backend & APIs → async services, batching, throughput optimization
+
+Each project reflects a **learning curve**, not just a finished demo.
+
+---
+
 ## 🧠 What I Work On
 
 #### 🔹 **Production ML & AI Systems** (end-to-end ownership)
@@ -24,22 +64,13 @@ I currently work on **business-critical AI platforms** that automate complex cli
 
 ---
 
-## 🛠️ Technical Skills
+## ⚙️ Tools Picked Up on Demand
 
-**Languages & Core**
-Python, SQL
+From project needs — not resumes:
 
-**Machine Learning & NLP**
-Scikit-learn, PyTorch, Transformers, NLP, OCR
-
-**Generative AI**
-LLMs, RAG, Prompt Engineering, Model Fine-tuning, Embeddings, Vector Databases
-
-**MLOps & Cloud**
-Docker, Serverless Architectures, Azure Functions, Experiment Tracking, CI/CD (in progress)
-
-**Engineering**
-APIs, Data Pipelines, Logging & Monitoring, Hybrid Rules + ML Systems
+Python, SQL, PyTorch, TensorFlow, FastAPI, Docker, Azure,  
+OCR engines, Vector Databases, LLMs, Prompt Engineering,  
+CI/CD, Async APIs, Distributed systems
 
 ---
 
@@ -66,17 +97,18 @@ End-to-end document ingestion pipeline using computer vision, OCR, ML, and GenAI
 
 ---
 
-## 🔬 Personal & Learning Projects (Open Source)
+## 📌 Selected Work
 
-I actively experiment with modern AI tools and architectures to stay hands-on.
-My **pinned repositories on GitHub** represent my most relevant recent work, including:
+Some of the problems I’ve worked on (see pinned repositories for details):
 
-* Retrieval-Augmented Generation (RAG) based chatbots
-* LLM fine-tuning experiments
-* SQL assistant using local LLMs
-* Agent-style research and planning systems
+- 📄 **Document & OCR Pipelines**  
+  Extracting structured data from noisy, real-world documents using OCR + ML + LLMs
 
-➡️ See **pinned projects** on my GitHub profile for runnable code and experiments
+- 🤖 **GenAI & RAG Systems**  
+  Building retrieval-augmented generation pipelines for domain-specific querying
+
+- ⚙️ **ML Systems & Pipelines**  
+  End-to-end ML workflows including training, deployment, and monitoring
 
 ---
 
@@ -88,6 +120,14 @@ My **pinned repositories on GitHub** represent my most relevant recent work, inc
 * Clear communication between engineering and business
 
 ---
+
+## 💬 What You Can Expect From Me
+
+- Strong ownership mindset
+- Comfort with ambiguity
+- Ability to upskill quickly and deliver
+- Focus on solving the *right* problem
+
 
 ## 📫 Connect With Me
 
