@@ -8,7 +8,7 @@ I focus on solving problems end to end — from understanding ambiguous requirem
 
 ## 🚀 About Me
 
-I’m a **Senior Machine Learning Engineer with 9+ years of industry experience**, specializing in building and scaling **production-grade AI systems** across healthcare and enterprise domains.
+Staff-level AI Engineer with **9+ years of overall industry experience**, including **6+ years designing and delivering production-grade AI, ML, and Generative AI systems** in enterprise and regulated healthcare environments.
 
 My work spans **Machine Learning, NLP, MLOps, and Generative AI**, with a strong focus on **LLM-based systems, Retrieval-Augmented Generation (RAG), model fine-tuning, and real-time AI platforms**. I enjoy solving ambiguous problems where accuracy, scalability, and business impact truly matter.
 
